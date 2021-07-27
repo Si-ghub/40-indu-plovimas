@@ -2,7 +2,6 @@ class Plates {
     constructor() {
         this.cleanPlates = 0;
         this.dirtyPlates = 0;
-
     }
 
     intro() {
