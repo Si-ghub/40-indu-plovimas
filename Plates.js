@@ -48,7 +48,6 @@ class Plates {
             console.log(`All plates in the Restoran is clean!`);
         }
     }
-
 }
 
 module.exports = Plates;
